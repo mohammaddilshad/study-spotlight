@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c727c1eb.css",
+    "main.js": "/static/js/main.ee25c23c.js",
+    "static/media/cartoongirl.jpg": "/static/media/cartoongirl.95495684b41f7565a91b.jpg",
+    "static/media/capital-market.png": "/static/media/capital-market.49d28cb5b937915a11ff.png",
+    "static/media/os.png": "/static/media/os.11b692ade80931f99467.png",
+    "static/media/oops.jpg": "/static/media/oops.0f7ec99e9345ce782804.jpg",
+    "static/media/dsa.jpeg": "/static/media/dsa.ea61e5ba1f388f291e71.jpeg",
+    "static/media/human-rights.jpg": "/static/media/human-rights.7abf2671ca1ecbbfcdd8.jpg",
+    "static/media/dbms.jpg": "/static/media/dbms.84400f07a06ad9570af3.jpg",
+    "static/media/about.avif": "/static/media/about.4b19033f6b5c3e34beac.avif",
+    "index.html": "/index.html",
+    "main.c727c1eb.css.map": "/static/css/main.c727c1eb.css.map",
+    "main.ee25c23c.js.map": "/static/js/main.ee25c23c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c727c1eb.css",
+    "static/js/main.ee25c23c.js"
+  ]
+}
